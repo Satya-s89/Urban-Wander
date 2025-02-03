@@ -33,34 +33,33 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 
 **UI Preview**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-   <div style="width:min-content;">
-      <img src="./Login page.png" alt="Login Page" style="width: 300px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./Login page.png" alt="Login Page" style="width: 100%; max-width: 300px;">
       <p>Login Page</p>
    </div>
-   <div style="width:min-content;">
-      <img src="./Home page.png" alt="Home Page" style="width: 300px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./Home page.png" alt="Home Page" style="width: 100%; max-width: 300px;">
       <p>Home Page</p>
    </div>
-</div>
-<div>
-   <div style="margin: 10px;">
-      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 100%; max-width: 300px;">
       <p>Accessibility Features</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./Map.png" alt="Map" style="width: 300px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./Map.png" alt="Map" style="width: 100%; max-width: 300px;">
       <p>Map</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./Settings.png" alt="Settings" style="width: 300px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./Settings.png" alt="Settings" style="width: 100%; max-width: 300px;">
       <p>Settings</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;">
+   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+      <img src="./ChatBot.png" alt="ChatBot" style="width: 100%; max-width: 300px;">
       <p>ChatBot</p>
    </div>
 </div>
+
 
 **Conclusion**
 
