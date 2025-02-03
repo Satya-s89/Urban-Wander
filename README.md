@@ -10,15 +10,32 @@
 [Click here](https://www.figma.com/design/PgElStuj12bRJWbsNVxfS1/Untitled?node-id=0-1&p=f&t=TUvgvlvoP1gHau46-0)
 
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
-   <div style="flex: 1 1 calc(33.333% - 40px); max-width: 500px; text-align: center; background-color: #fff; padding: 10px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <img src="./Login page.png" alt="Login Page" style="width: 100%; height: auto; display: block; border-radius: 5px;">
-      <p style="margin-top: 10px; font-weight: bold;">Login Page</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+   <div style="margin: 10px;">
+      <img src="./Login page.png" alt="Login Page" style="width: 500px;">
+      <p>Login Page</p>
    </div>
-   <div style="flex: 1 1 calc(33.333% - 40px); max-width: 500px; text-align: center; background-color: #fff; padding: 10px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <img src="./Home page.png" alt="Home Page" style="width: 100%; height: auto; display: block; border-radius: 5px;">
-      <p style="margin-top: 10px; font-weight
+   <div style="margin: 10px;">
+      <img src="./Home page.png" alt="Home Page" style="width: 500px;">
+      <p>Home Page</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 500px;">
+      <p>Accessibility Features</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./Map.png" alt="Map" style="width: 500px;">
+      <p>Map</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./Settings.png" alt="Settings" style="width: 500px;">
+      <p>Settings</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./ChatBot.png" alt="ChatBot" style="width: 500px;">
+      <p>ChatBot</p>
+   </div>
+</div>
 
 
 ## Slide Desk
