@@ -32,7 +32,10 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 - **Slide Deck**: [Click here](https://docs.google.com/presentation/d/1mcYsL3_UoABX2fj_lAKZwPd1zbFo6lKALmJN4xlXseA/edit?usp=sharing)
 
 **UI Preview**
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+<img src="./Login page.png" alt="Login Page" style="width: 300px;">
+   <img src="./Home page.png" alt="Home Page" style="width: 300px;">
+</div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
    <div style="display:inline; margin: 10px; width:min-content;">
        <p>Login Page</p>
