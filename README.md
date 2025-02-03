@@ -58,7 +58,3 @@ Our solution targets modern travelers who seek convenience, personalization, and
 # Conclusion
 
 Our AI-powered platform revolutionizes the way people travel by offering a seamless, personalized, and efficient experience. We address the common challenges faced by travelers and provide a comprehensive solution that enhances their journey.
-
-try like this inline styling do gpt or something
-
-<p style="color:red;">A red paragraph.</p>
