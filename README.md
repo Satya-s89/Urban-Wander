@@ -33,40 +33,12 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 
 **UI Preview**
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-<img src="./Login page.png" alt="Login Page" style="width: 300px;">
-   <img src="./Home page.png" alt="Home Page" style="width: 300px;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-   <div style="display:inline; margin: 10px; width:min-content;">
-       <p>Login Page</p>
-      <img src="./Login page.png" alt="Login Page" style="width: 300px;">
-      
-   </div>
-   <div style="display:inline; margin: 10px; width:min-content;">
-      <p>Home Page</p>
-      <img src="./Home page.png" alt="Home Page" style="width: 300px;">
-      
-   </div>
-   <div style="display:inline; margin: 10px; width:min-content;">
-       <p>Accessibility Features</p>
-      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
-     
-   </div>
-   <div style="display:inline; margin: 10px; width:min-content;">
-      <p>Map</p>
-      <img src="./Map.png" alt="Map" style="width: 300px;">
-      
-   </div>
-   <div style="display:inline; margin: 10px; width:min-content;">
-      <p>Settings</p>
-      <img src="./Settings.png" alt="Settings" style="width: 300px;">
-      
-   </div>
-   <div style="display:inline; margin: 10px; width:min-content;">
-      <p>ChatBot</p>
-      <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;">
-      
-   </div>
+   <img src="./Login page.png" alt="Login Page" style="width: 300px;margin: 10px;">
+   <img src="./Home page.png" alt="Home Page" style="width: 300px;margin: 10px;">
+   <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;margin: 10px;">
+   <img src="./Map.png" alt="Map" style="width: 300px;">
+   <img src="./Settings.png" alt="Settings" style="width: 300px;margin: 10px;">
+   <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;margin: 10px;">
 </div>
 
 
