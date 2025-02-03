@@ -30,27 +30,6 @@
 ## Slide Desk
 [Click here](https://docs.google.com/presentation/d/1mcYsL3_UoABX2fj_lAKZwPd1zbFo6lKALmJN4xlXseA/edit?usp=sharing)
 
-## Urban wander
-<img src="./Urban Wander.png">
-
-## Overview
-<img src="./Overview.png">
-
-## Understanding the Problem
-<img src="./UnderStanding The Problems.png">
-
-## Objective
-<img src="./Objective.png">
-
-## Target Audience
-<img src="./Target Audience.png">
-
-## Market
-<img src="./Market.png">
-
-## SpotLights
-<img src="./SpotLight on Desktop.png">
-<img src="./SpotLight on Mobile.png">
 
 # Introduction
 
