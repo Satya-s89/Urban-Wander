@@ -12,27 +12,27 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
    <div style="margin: 10px;">
-      <img src="./Login page.png" alt="Login Page" style="width: 500px;">
+      <img src="./Login page.png" alt="Login Page" style="width: 100px;">
       <p>Login Page</p>
    </div>
    <div style="margin: 10px;">
-      <img src="./Home page.png" alt="Home Page" style="width: 500px;">
+      <img src="./Home page.png" alt="Home Page" style="width: 100px;">
       <p>Home Page</p>
    </div>
    <div style="margin: 10px;">
-      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 500px;">
+      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 100px;">
       <p>Accessibility Features</p>
    </div>
    <div style="margin: 10px;">
-      <img src="./Map.png" alt="Map" style="width: 500px;">
+      <img src="./Map.png" alt="Map" style="width: 100px;">
       <p>Map</p>
    </div>
    <div style="margin: 10px;">
-      <img src="./Settings.png" alt="Settings" style="width: 500px;">
+      <img src="./Settings.png" alt="Settings" style="width: 100px;">
       <p>Settings</p>
    </div>
    <div style="margin: 10px;">
-      <img src="./ChatBot.png" alt="ChatBot" style="width: 500px;">
+      <img src="./ChatBot.png" alt="ChatBot" style="width: 100px;">
       <p>ChatBot</p>
    </div>
 </div>
