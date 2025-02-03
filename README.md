@@ -1,6 +1,6 @@
 # Urban-Wander
 
-## Prototype Link for Urban Wander app
+## Prototype Link
 [link text](https://www.figma.com/proto/PgElStuj12bRJWbsNVxfS1/Untitled?node-id=1-3&p=f&t=PS8qy0FfGDnWGRCs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ## Figma Link
@@ -12,7 +12,7 @@
 ## Home Page
 <img src="./Home page.png">
 
-## All Things
+## Accessibility Features
 <img src="./AllThings.png">
 
 ## Map
@@ -24,5 +24,28 @@
 ## ChatBot
 <img src="./ChatBot.png">
 
-## Slide show
+## Slide Desk
 [link text](https://docs.google.com/presentation/d/1mcYsL3_UoABX2fj_lAKZwPd1zbFo6lKALmJN4xlXseA/edit?usp=sharing)
+
+## Urban wander
+<img src="./Urban Wander.png">
+
+## Overview
+<img src="./Overview.png">
+
+## Understanding the Problem
+<img src="./UnderStanding The Problems.png">
+
+## Objective
+<img src="./Objective.png">
+
+## Target Audience
+<img src="./Target Audience.png">
+
+## Market
+<img src="./Market.png">
+
+## SpotLights
+<img src="./SpotLight on Desktop.png">
+<img src="./SpotLight on Mobile.png">
+
