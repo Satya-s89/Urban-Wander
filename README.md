@@ -34,14 +34,16 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 **UI Preview**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-   <div style="margin: 10px;">
+   <div style="width:min-content;">
       <img src="./Login page.png" alt="Login Page" style="width: 300px;">
       <p>Login Page</p>
    </div>
-   <div style="margin: 10px;">
+   <div style="width:min-content;">
       <img src="./Home page.png" alt="Home Page" style="width: 300px;">
       <p>Home Page</p>
    </div>
+</div>
+<div>
    <div style="margin: 10px;">
       <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
       <p>Accessibility Features</p>
