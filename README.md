@@ -48,35 +48,32 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 ---
 
 **UI Preview**
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
    <div style="margin: 10px;">
       <img src="./Login page.png" alt="Login Page" style="width: 300px;">
-      <p><strong>Login Page</strong></p>
+      <p>Login Page</p>
    </div>
    <div style="margin: 10px;">
       <img src="./Home page.png" alt="Home Page" style="width: 300px;">
-      <p><strong>Home Page</strong></p>
+      <p>Home Page</p>
    </div>
    <div style="margin: 10px;">
       <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
-      <p><strong>Accessibility Features</strong></p>
+      <p>Accessibility Features</p>
    </div>
    <div style="margin: 10px;">
       <img src="./Map.png" alt="Map" style="width: 300px;">
-      <p><strong>Map</strong></p>
+      <p>Map</p>
    </div>
    <div style="margin: 10px;">
       <img src="./Settings.png" alt="Settings" style="width: 300px;">
-      <p><strong>Settings</strong></p>
+      <p>Settings</p>
    </div>
    <div style="margin: 10px;">
       <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;">
-      <p><strong>ChatBot</strong></p>
+      <p>ChatBot</p>
    </div>
 </div>
-
----
 
 **Conclusion**
 
