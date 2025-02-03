@@ -46,32 +46,34 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 ---
 
 **UI Preview**
+**UI Preview**
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-   <div style="margin: 10px;">
-      <img src="./Login page.png" alt="Login Page" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/Login_page.png" alt="Login Page" style="width: 300px;">
       <p>Login Page</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./Home page.png" alt="Home Page" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/Home_page.png" alt="Home Page" style="width: 300px;">
       <p>Home Page</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/Accessibility_Features.png" alt="Accessibility Features" style="width: 300px;">
       <p>Accessibility Features</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./Map.png" alt="Map" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/Map.png" alt="Map" style="width: 300px;">
       <p>Map</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./Settings.png" alt="Settings" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/Settings.png" alt="Settings" style="width: 300px;">
       <p>Settings</p>
    </div>
-   <div style="margin: 10px;">
-      <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;">
+   <div style="margin: 10px; text-align: center;">
+      <img src="https://path.to/your/ChatBot.png" alt="ChatBot" style="width: 300px;">
       <p>ChatBot</p>
    </div>
 </div>
+
 
 **Conclusion**
 
