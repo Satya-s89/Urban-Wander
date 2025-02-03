@@ -1,3 +1,71 @@
+# Flexbox Layout for Images
+### HTML Structure
+
+```html
+<div class="flex-container">
+  <div class="flex-item">
+    <img src="./Login page.png" alt="Login Page">
+  </div>
+  <div class="flex-item">
+    <img src="./Home page.png" alt="Home Page">
+  </div>
+  <div class="flex-item">
+    <img src="./accessibility features.png" alt="Accessibility Features">
+  </div>
+  <div class="flex-item">
+    <img src="./Map.png" alt="Map">
+  </div>
+  <div class="flex-item">
+    <img src="./Settings.png" alt="Settings">
+  </div>
+  <div class="flex-item">
+    <img src="./ChatBot.png" alt="ChatBot">
+  </div>
+  <div class="flex-item">
+    <img src="./Urban Wander.png" alt="Urban Wander">
+  </div>
+  <div class="flex-item">
+    <img src="./Overview.png" alt="Overview">
+  </div>
+  <div class="flex-item">
+    <img src="./UnderStanding The Problems.png" alt="Understanding the Problem">
+  </div>
+  <div class="flex-item">
+    <img src="./Objective.png" alt="Objective">
+  </div>
+  <div class="flex-item">
+    <img src="./Target Audience.png" alt="Target Audience">
+  </div>
+  <div class="flex-item">
+    <img src="./Market.png" alt="Market">
+  </div>
+  <div class="flex-item">
+    <img src="./SpotLight on Desktop.png" alt="SpotLight on Desktop">
+  </div>
+  <div class="flex-item">
+    <img src="./SpotLight on Mobile.png" alt="SpotLight on Mobile">
+  </div>
+</div>
+/* styles.css */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.flex-item {
+  margin: 10px;
+  flex: 1 1 calc(33.333% - 20px);
+}
+
+.flex-item img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 # Urban-Wander
 
 ## Drive link
