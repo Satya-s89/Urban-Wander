@@ -45,6 +45,38 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 - **🎨 Figma Design**: [Click here](https://www.figma.com/design/PgElStuj12bRJWbsNVxfS1/Untitled?node-id=0-1&p=f&t=TUvgvlvoP1gHau46-0)
 - **📊 Slide Deck**: [Click here](https://docs.google.com/presentation/d/1mcYsL3_UoABX2fj_lAKZwPd1zbFo6lKALmJN4xlXseA/edit?usp=sharing)
 
+<<<<<<< HEAD
+=======
+---
+
+**UI Preview**
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+   <div style="margin: 10px;">
+      <img src="./Login page.png" alt="Login Page" style="width: 300px;">
+      <p>Login Page</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./Home page.png" alt="Home Page" style="width: 300px;">
+      <p>Home Page</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./accessibility features.png" alt="Accessibility Features" style="width: 300px;">
+      <p>Accessibility Features</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./Map.png" alt="Map" style="width: 300px;">
+      <p>Map</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./Settings.png" alt="Settings" style="width: 300px;">
+      <p>Settings</p>
+   </div>
+   <div style="margin: 10px;">
+      <img src="./ChatBot.png" alt="ChatBot" style="width: 300px;">
+      <p>ChatBot</p>
+   </div>
+</div>
+>>>>>>> b57381af0aecdecfa22a643dc1966f624bf49851
 
 **Conclusion**
 
