@@ -4,6 +4,38 @@
 
 ---
 
+## Are you solving a real-world problem? (Yes)
+
+**Problem**
+
+"Travelers often encounter various challenges, such as missing out on interesting places along their route or struggling to find food and other necessities. Our app and chatbot can be incredibly helpful in addressing these issues."
+
+## Are you using PromptRepo? 
+
+No
+
+## We are using GEMINI AI
+
+1. **Search:** To help travelers find relevant places, accommodations, restaurants, and other points of interest.
+2. **Classification:** To categorize different types of places or services, such as food, lodging, attractions, and so on.
+3. **Extraction:** To pull important information from user inputs or external sources, like extracting addresses, names, or other key details.
+4. **Generation:** To create helpful content, such as recommendations, itineraries, travel tips, or even generating personalized responses in the chatbot.
+
+
+## Technologies Stack
+* Next.js
+* Gemini API
+* React
+
+## Team Members
+Kaki Hari Satya Srikanth (github link)
+Vysyaraju AkhilRaju
+Inaparthi Madhukiran
+Kadali Mourya
+Ponamanda Saimanideep
+
+## About Our App
+
 **Introduction**
 
 Welcome to **Urban-Wander**, the ultimate AI-powered travel experience. Our platform transforms how you travel with real-time assistance, seamless bookings, and personalized suggestions.
