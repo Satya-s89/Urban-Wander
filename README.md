@@ -8,7 +8,7 @@
 
 **Problem**
 
-"Travelers often encounter various challenges, such as missing out on interesting places along their route or struggling to find food and other necessities. Our app and chatbot can be incredibly helpful in addressing these issues."
+"Travelers often face the challenge of navigating multiple websites for buses, trains, flights, and taxis. This fragmented process can be time-consuming and stressful, as users have to manage different platforms for scheduling, booking, and real-time updates. The lack of a unified system results in missed connections, delays, and a cumbersome travel experience."
 
 ## Are you using PromptRepo? 
 
@@ -23,9 +23,10 @@ No
 
 
 ## Technologies Stack
-* Next.js
+* HTML
+* CSS
+* Java Script
 * Gemini API
-* React
 
 ## Team Members
 Kaki Hari Satya Srikanth (github link)
@@ -80,4 +81,4 @@ Modern travelers who seek convenience, personalization, and efficiency. This inc
 
 **Conclusion**
 
-Urban-Wander revolutionizes travel by offering a seamless, personalized, and efficient experience. We address common travel challenges and provide a comprehensive solution to enhance your journey.
+With Urban Wander, users can conveniently access all transportation options in one place, streamlining the travel planning process. Say goodbye to the hassle of switching between multiple websites for different modes of transportation – Urban Wander simplifies the journey planning experience.
